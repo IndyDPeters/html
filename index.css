@@ -29,4 +29,12 @@ html,body
     position: fixed;
     bottom: 0%;
     width: 100%;
+    background: linear-gradient(45deg, #80CED7, #007EA7, #003249);
+    font-size: 30px;
+}
+
+
+.footer-content{
+    color: black;
+    text-align: center;
 }
