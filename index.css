@@ -9,3 +9,11 @@
 
 
 }
+
+
+.footer-sticky{
+    
+    position: absolute;
+    bottom: 0%;
+    width: 100%;
+}
