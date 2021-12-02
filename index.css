@@ -1,7 +1,11 @@
-.test{
-    color: seashell;
-    background: linear-gradient(gray, green);
-    
+
+.top{
+    background: black;
+    background: linear-gradient(black 25%, white 50%);
+    width: 100%;
+    text-align: center;
+
+
 
 
 }
