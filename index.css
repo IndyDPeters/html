@@ -1,3 +1,14 @@
+html,body
+{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden; 
+}
+
+
+
 .header{
     background: linear-gradient(45deg, #80CED7, #007EA7, #003249);
     width: 100%;
@@ -15,8 +26,7 @@
 }
 
 .footer-sticky{
-    
-    position: absolute;
+    position: fixed;
     bottom: 0%;
     width: 100%;
 }
