@@ -1,5 +1,6 @@
-.header{
-    background: linear-gradient(45deg, #80CED7, #007EA7);
+.top{
+    background: black;
+    background: linear-gradient(black 25%, white 50%);
     width: 100%;
     text-align: center;
 
