@@ -17,15 +17,20 @@ html,body
 
 }
 
+.p-test{
+    width: 100%;
+}
 
 .footer-wrapper{
-    position: absolute;
+    
     bottom: 0%;
     width: 100%;
     text-align: center;
     background-color: darkslategray;
     border-radius: 0;
-
+    z-index: 999;
+    position: fixed;
+    
 }
 
 .footer-content{
