@@ -1,2 +1,0 @@
-# RazerSharp-Web
-RazerSharp Web
