@@ -7,6 +7,12 @@
 
 }
 
+.logo-in-top-corner{
+    position: fixed;
+    top: 8px;
+    left: 9px;
+    max-width: 50px;
+}
 
 .footer-sticky{
     
