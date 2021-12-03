@@ -1,75 +1,17 @@
-    .fivrr-button {
-        background-image: url('https://cdn.discordapp.com/attachments/899307811803107350/916130640502607933/Fiverr-Logo.png');
-        width:64px;
-        background-position: center;
-        background-repeat: no-repeat;
-    }
-
-
-.header{
-    background: linear-gradient(45deg, #80CED7, #007EA7, #003249);
-    width: 100%;
-    text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 100%;
-    
-}
-
-#header-img{
-    float: left;
-    height: auto;
-    width: auto;
-}
-
-.header-info-wrapper{
-    width: 100%;
-   
+ body{
+    background-color: #333333;
+    color: white;
+    font-family: Georgia, serif;
     text-align: center;
 }
 
-.header-album-wrapper{
-    display: flex;
+.body-text{
+   top: 35%;
+   position: absolute;
+}
+
+
+.body-text-p{
     width: 50%;
-}
-
-.mb-2{
-    display: flex;
-}
-
-.header-album-box-img{
-    width: 30%;
-    height: 30%;
-}
-
-.header-album-box-text{
-    width: 20%;
-}
-
-.mb-2{
-    display: flex;
     margin: auto;
-    flex-direction: column;
-}
-
-
-
-
-
-
-.footer-sticky{
-    position: fixed;
-    bottom: 0%;
-    width: 100%;
-    background: linear-gradient(45deg, #80CED7, #007EA7, #003249);
-    font-size: 30px;
-}
-
-.icon-github{
-    color: #444444;
-}
-
-
-.footer-content{
-    color: black;
-    text-align: center;
 }
