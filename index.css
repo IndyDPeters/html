@@ -47,6 +47,8 @@
 
 .mb-2{
     display: flex;
+    margin: auto;
+    flex-direction: column;
 }
 
 

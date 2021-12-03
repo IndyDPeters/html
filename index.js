@@ -1,21 +1,21 @@
-function bigFooterImg(x) {
+function bigFooterImgGithub(x) {
+    
+    x.style.width = "4%";
+  }
+
+  function smallFooterImgGithub(x) {
     
     x.style.width = "3%";
   }
 
-  function smallFooterImg(x) {
+
+
+function bigFooterImgFiverr(x) {
     
-    x.style.width = "2%";
+    x.style.width = "4%";
   }
 
-
-
-function bigFooterImg2(x) {
+  function smallFooterImgFiverr(x) {
     
-    x.style.width = "6%";
-  }
-
-  function smallFooterImg2(x) {
-    
-    x.style.width = "5%";
+    x.style.width = "3%";
   }
