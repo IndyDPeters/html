@@ -1,11 +1,11 @@
-.fivrr-button {
-    background-image: url('https://cdn.discordapp.com/attachments/899307811803107350/916130640502607933/Fiverr-Logo.png');
-    width:64px;
-    background-position: center;
-    background-repeat: no-repeat;
+    .fivrr-button {
+        background-image: url('https://cdn.discordapp.com/attachments/899307811803107350/916130640502607933/Fiverr-Logo.png');
+        width:64px;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
 
 
-}
 .header{
     background: linear-gradient(45deg, #80CED7, #007EA7, #003249);
     width: 100%;
@@ -25,11 +25,6 @@
     width: 100%;
    
     text-align: center;
-}
-
-.header-info-button{
-    border-radius: 15px;
-    border: none;
 }
 
 .header-album-wrapper{
@@ -53,6 +48,8 @@
 .mb-2{
     display: flex;
 }
+
+
 
 
 
