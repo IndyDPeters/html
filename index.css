@@ -20,6 +20,11 @@ body {
     }
 }
 
+.header-icon{
+    width: 2%;
+    
+}
+
 .body-text{
     top: 35%;
     position: absolute;
