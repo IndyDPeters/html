@@ -8,13 +8,13 @@ body {
 
 }
 
-@media (max-width: 1000px){
+@media (max-width: 991px){
     body{
         font-size: xx-large;
     }
 }
 
-@media (max-width: 1000px){
+@media (max-width: 991px){
     .body-name-h1{
         font-size: 180px;
     }
@@ -22,8 +22,22 @@ body {
 
 .header-icon{
     width: 3%;
-    
 }
+
+@media (max-width: 991px){
+    .header-icon{
+        width: 20%;
+    }
+}
+
+@media (max-width: 991px){
+    .header-text{
+        font-size: 90px;
+    }
+}
+
+
+
 
 .body-text{
     top: 35%;

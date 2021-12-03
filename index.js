@@ -1,21 +1,21 @@
-function bigFooterImgGithub(x) {
+function bigHeaderImgGithub(x) {
     
     x.style.width = "4%";
   }
 
-  function smallFooterImgGithub(x) {
+  function smallHeaderImgGithub(x) {
     
     x.style.width = "3%";
   }
 
 
 
-function bigFooterImgFiverr(x) {
+function bigHeaderImgFiverr(x) {
     
     x.style.width = "4%";
   }
 
-  function smallFooterImgFiverr(x) {
+  function smallHeaderImgFiverr(x) {
     
     x.style.width = "3%";
   }
