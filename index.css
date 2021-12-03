@@ -8,6 +8,18 @@ body {
 
 }
 
+@media (max-width: 1000px){
+    body{
+        font-size: xx-large;
+    }
+}
+
+@media (max-width: 1000px){
+    .body-name-h1{
+        font-size: 180px;
+    }
+}
+
 .body-text{
     font-family: 'Roboto', sans-serif;
     top: 35%;
