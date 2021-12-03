@@ -1,13 +1,17 @@
- body{
-    background-color: #333333;
+
+body {
+    background: linear-gradient(-45deg, #404040, #333333, #292929);
+    background-size: 400% 400%;
     color: white;
     font-family: Georgia, serif;
     text-align: center;
+
 }
 
 .body-text{
-   top: 35%;
-   position: absolute;
+    font-family: 'Roboto', sans-serif;
+    top: 35%;
+    position: absolute;
 }
 
 
@@ -15,3 +19,18 @@
     width: 50%;
     margin: auto;
 }
+
+ .footer{
+     position: fixed;
+     left: 0;
+     bottom: 0;
+     width: 100%;
+     text-align: center;
+ }
+
+ .footer-text{
+     font-family: 'Roboto', sans-serif;
+
+
+
+ }
