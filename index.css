@@ -20,12 +20,6 @@ body {
     }
 }
 
-.icon {
-    background: url('https://cdn.discordapp.com/attachments/899307811803107350/916401378270781461/fiverrFooterImg.png');
-    height: 64px;
-    width: 64px;
-    display: block;
-}
 .body-text{
     top: 35%;
     position: absolute;
